@@ -7,9 +7,9 @@ I'll fix the Mermaid diagram syntax errors. The issue is with the quotation mark
 ## **What Is This?**
 
 ### **In Simple Business Terms:**
-Think of PASHUPATASTRA as a **"digital conversation starter"** with social media platforms. It helps us understand what algorithms value so we can ethically guide them to show people more helpful, constructive, and positive content.
+Think of PASHUPASTRA as a **"digital conversation starter"** with social media platforms. It helps us understand what algorithms value so we can ethically guide them to show people more helpful, constructive, and positive content.
 
-**Analogy:** If social media algorithms are like automated radio DJs, PASHUPATASTRA helps us understand their music selection rules so we can suggest more uplifting songs for everyone's playlist.
+**Analogy:** If social media algorithms are like automated radio DJs, PASHUPASTRA helps us understand their music selection rules so we can suggest more uplifting songs for everyone's playlist.
 
 ## **How It Works: The Visual Flow**
 
@@ -50,7 +50,7 @@ flowchart TD
 You → Post → Platform Decides Visibility → Others See or Don't See
 ```
 
-### **PASHUPATASTRA Approach:**
+### **PASHUPASTRA Approach:**
 ```
 We Create Digital Ambassadors → They Signal Value → Platform Responds
       ↓                          ↓                    ↓
